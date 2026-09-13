@@ -1,5 +1,7 @@
 export default function Footer() {
-  return (
+  
+  
+    return (
     <footer id="about" className="border-t border-slate-100 bg-white">
       {/* Main Footer */}
       <div className="mx-auto grid max-w-7xl gap-8 px-5 py-10 sm:grid-cols-2 lg:grid-cols-[2fr_1fr_1fr_1fr] md:px-8">
